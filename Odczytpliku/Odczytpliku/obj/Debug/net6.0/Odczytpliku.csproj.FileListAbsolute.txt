@@ -1,0 +1,15 @@
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\bin\Debug\net6.0\Odczytpliku.exe
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\bin\Debug\net6.0\Odczytpliku.deps.json
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\bin\Debug\net6.0\Odczytpliku.runtimeconfig.json
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\bin\Debug\net6.0\Odczytpliku.dll
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\bin\Debug\net6.0\Odczytpliku.pdb
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.AssemblyInfoInputs.cache
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.AssemblyInfo.cs
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.dll
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\refint\Odczytpliku.dll
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.pdb
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\Odczytpliku.genruntimeconfig.cache
+C:\Users\PC\source\repos\Odczytpliku\Odczytpliku\obj\Debug\net6.0\ref\Odczytpliku.dll
